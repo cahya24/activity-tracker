@@ -1,6 +1,6 @@
-from user.py import User
-from group.py import Group
-from activity.py import Activity
+import user
+import group
+import activity
 
 
 
